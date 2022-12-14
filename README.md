@@ -15,3 +15,8 @@ This is the second project of the Software Engineer program at Practicum by Yand
 
 Add your ideas here :)
 #Version was done on Dec 13th 2022 7:18 pm,
+
+#version 1.3:
+-fixed the min-height
+-deleted the font-weigth and font-size
+

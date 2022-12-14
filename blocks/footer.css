@@ -31,7 +31,6 @@
 
 .footer__content {
   display: flex;
-  min-height: 224px;
   margin: 60px 100px 108px 80px;
   min-height: 0;
 }
