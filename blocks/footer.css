@@ -1,13 +1,11 @@
-.header__footer_list {
+.header__footer {
   font-size: 14px;
   position: absolute;
   left: 80px;
   bottom: 40px;
 }
 
-.header__footer_hours,
-.header__footer__list-item,
-.header__address {
+.header__paragraph {
   font-family: Inter, Arial;
   font-style: normal;
   font-weight: 500;
