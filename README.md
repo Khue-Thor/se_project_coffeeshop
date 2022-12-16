@@ -20,3 +20,6 @@ Add your ideas here :)
 -fixed the min-height
 -deleted the font-weigth and font-size
 
+
+#fixing BEM :
+-fixed the background__image
