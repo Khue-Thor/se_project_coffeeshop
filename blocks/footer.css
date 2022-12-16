@@ -5,12 +5,18 @@
   bottom: 40px;
 }
 
+.paragraph__container {
+  position:absolute;
+  bottom: 40px;
+  left: 80px;
+}
 .header__paragraph {
   font-family: Inter, Arial;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
+  bottom: 40px;
 }
 
 .header__address {
