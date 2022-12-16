@@ -262,13 +262,13 @@
   justify-content: center;
   border: none;
   padding: 0;
-}
 
-.form__checkbox {
   border-radius: 2px;
   min-width: 20px;
   min-height: 20px;
 }
+
+
 
 .form__label[for="agree-terms"] {
   margin-left: 12px;
