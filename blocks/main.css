@@ -194,7 +194,7 @@
 
 .reservation__title {
   margin-bottom: 80px;
-  font-family:Inter Serif, Arial;
+  font-family:Inter serif, Arial;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -207,7 +207,7 @@
   max-width: 480px;
   background: #D9E7FF;
   box-sizing: border-box;
-  font-family: Inter Serif, Arial;
+  font-family: Inter serif, Arial;
   padding: 30px;
   z-index: 1;
   margin-bottom: 127px;
@@ -237,7 +237,7 @@
   padding-top: 30px;
   background-color: #2f80ed;
   border-radius: 4px;
-  font-family:Inter Serif, Arial;
+  font-family:Inter serif, Arial;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -252,7 +252,7 @@
 
 .form__label {
   margin-bottom: 8px;
-  font-family:Inter Serif, Arial;
+  font-family:Inter serif, Arial;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -317,7 +317,7 @@
   margin: 0;
   padding-bottom: 32px;
   color: #fff;
-  font-family: Noto Serif, 'Times New Roman', Times, serif;
+  font-family: Noto serif, 'Times New Roman', Times, serif;
 }
 
 .about__paragraph:last-of-type {
