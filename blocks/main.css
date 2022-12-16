@@ -24,7 +24,7 @@
   
 }
 
-.background_menu {
+.background-menu {
   background-repeat: no-repeat;
   background-image: url(../images/background_menu.svg);
   background-size: cover;
@@ -264,7 +264,7 @@
   padding: 0;
 }
 
-.form__input_type_checkbox {
+.form__checkbox {
   border-radius: 2px;
   min-width: 20px;
   min-height: 20px;
@@ -333,13 +333,5 @@
 }
 
 .about__circle_animation_blurred {
-  background-color: #2f80ed;
-  width: 426px;
-  height: 426px;
-  border-radius: 50%;
-  position: absolute;
-  top: -152px;
-  left: -129px;
-  z-index: 0;
   animation: pulsate 1.3s ease-out infinite;
 }

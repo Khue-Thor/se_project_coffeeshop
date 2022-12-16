@@ -5,8 +5,8 @@
   bottom: 40px;
 }
 
-.paragraph__container {
-  position:absolute;
+.header__paragraph-contatiner {
+  position: absolute;
   bottom: 40px;
   left: 80px;
 }
