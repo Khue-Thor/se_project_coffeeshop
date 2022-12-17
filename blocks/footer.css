@@ -1,42 +1,13 @@
-.header__footer {
-  font-size: 14px;
-  position: absolute;
-  left: 80px;
-  bottom: 40px;
-}
-
-.header__paragraph-contatiner {
-  position: absolute;
-  bottom: 40px;
-  left: 80px;
-}
-.header__paragraph {
-  font-family: Inter, Arial;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 20px;
-  bottom: 40px;
-}
-
-.header__address {
-  position: absolute;
-  right: 80px;
-  bottom: 40px;
-  margin: 0;
-  color: #6f6f6f;
-}
-
 .footer {
   box-sizing: border-box;
   background-color: #152342;
-  padding: 60px 80px 60px 80px;
+  padding: 60px 100px 60px 80px;
 }
 
 .footer__content {
   display: flex;
-  margin: 60px 100px 108px 80px;
-  min-height: 0;
+  margin-bottom: 100px;
+  justify-content: center;
 }
 
 .footer__column_content_social {
@@ -88,5 +59,4 @@
 
 .footer__copyright {
   color: #fff;
-  margin: 0;
 }

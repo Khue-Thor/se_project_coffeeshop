@@ -23,3 +23,11 @@ Add your ideas here :)
 
 #fixing BEM :
 -fixed the background__image
+
+#version 5:
+-fixing the videos placement
+-deleting all the background-image class
+-put the background-image in the section
+-instead of using ___________________, now we using flex-grow and border-bottom in the span.
+-deleting the conflict margin in footer.
+-created another css files for each sections.
