@@ -14,9 +14,9 @@
 }
 
 .menu__title {
-  width: 780px;
+  max-width: 780px;
   text-align: center;
-  font-family: Inter, Arial;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -28,7 +28,7 @@
 .menu__subtitle {
   max-width: 780px;
   text-align: center;
-  font-family: Noto serif, 'Times New Roman', Times, serif;
+  font-family: "Noto serif", 'Times New Roman', Times, serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -46,51 +46,4 @@
   row-gap: 100px;
   flex-wrap: wrap;
   margin-bottom: 100px;
-}
-
-.card {
-  max-width: 50%;
-  flex-basis: 45%;
-  color: #fff;
-  padding: 0;
-  margin: 0;
-}
-
-.card__title {
-  margin-bottom: 32px;
-  font-family: Inter, Arial;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 20px;
-  line-height: 30px;
-  margin-top: 0;
-}
-
-.card__list {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-.card__list-item {
-  font-family: Noto serif, 'Times New Roman', Times, serif;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 20px;
-  display: flex;
-	justify-content: center;
-  margin-bottom: 16px;
-
-}
-
-.card__list-item:last-of-type {
-  margin: 0;
-}
-
-.card__list-divider {
-	display: flex;
-	flex-grow: 1;
-	border: 0;
-	border-bottom: 1px solid #fff;
 }
