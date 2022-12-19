@@ -10,7 +10,7 @@
   justify-content: space-evenly;
   padding: 0;
   column-gap: 20px;
-  margin-bottom: 0;
+  margin: 0;
 }
 
 .nav__link {

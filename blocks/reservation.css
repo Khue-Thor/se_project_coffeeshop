@@ -21,7 +21,6 @@
 }
 
 .reservation__form {
-	margin: 0;
-	padding: 0;
-	border-style: none;
+  max-width: 385px;
+  margin: 0;
 }

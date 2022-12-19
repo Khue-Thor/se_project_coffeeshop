@@ -13,8 +13,8 @@
 
 .about {
   width: 100%;
-  padding: 119px 80px 0 80px;
-  background-color: #0a2750;
+  padding: 100px 80px 0 80px;
+  background-color: #0a2850;
   color: #fff;
   overflow: hidden;
   position: relative;
@@ -42,6 +42,7 @@
   margin-left: 120px;
   z-index: 1;
   margin-bottom: 173px;
+  margin-top: 19px;
 }
 
 .about__paragraph {
