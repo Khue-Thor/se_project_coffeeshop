@@ -58,6 +58,7 @@
   width: 100%;
   display: flex;
   justify-content: space-between;
+  align-items: end;
   padding: 0px 80px 0px 80px;
   position: absolute;
   box-sizing: border-box;
@@ -71,12 +72,9 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
-  box-sizing: border-box;
   color: #6f6f6f;
   margin: 0;
+  padding: 0;
 }
 
-.header__paragraph:last-of-type {
-  margin-top: auto;
-}
 
